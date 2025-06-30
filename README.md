@@ -17,7 +17,7 @@ Soy analista de datos en formación, y dispuesto a afrontar nuevos desafíos. Tr
 #### 🔹 [Oil & Gas - Análisis de yacimientos (proyecto colaborativo)](https://github.com/matvergara/OilGas-ICD-TPF)  
 Colaboré en este proyecto grupal centrado en la exploración y modelado de datos de yacimientos de hidrocarburos. Trabajé en la limpieza del dataset, categorización de variables, análisis exploratorio y modelado predictivo para propiedades como **porosidad y permeabilidad**.
 
-#### 🔹 [Análisis de denuncias por robo de vehículos](https://github.com/javivaldez49/robos-vehiculos)  
+#### 🔹 [Análisis de denuncias por robo de vehículos](https://github.com/javivaldez49/CursoDataScience)  
 Limpieza de datos, visualización con Seaborn/Matplotlib y hallazgos clave sobre patrones de robo.
 
 #### 🔹 [Análisis de clientes de tarjetas de crédito](https://github.com/javivaldez49/analisis-clientes-tarjeta)  
